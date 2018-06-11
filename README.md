@@ -22,7 +22,7 @@ git config --global user.name "Some username"
 Important! Choose a meaningfull username. If you work on the same project from different computers. It might be a good idea to choose
 different usernames to able to see from where work was done. 
 git command:
-git config --global user.email "koklapperne@gmail.com"
+git config --global user.email "Some email address"
 Check it with:
 Git command:
 git config user.name, displays the username
